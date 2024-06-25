@@ -1,14 +1,8 @@
 {
   "canisters": {
-    "Day1Retry_backend": {
-      "candid": "src/Day1Retry_backend/Day1Retry_backend.did",
-      "package": "Day1Retry_backend",
-      "type": "rust"
-    },
+
     "Day1Retry_frontend": {
-      "dependencies": [
-        "Day1Retry_backend"
-      ],
+
       "source": [
         "src/Day1Retry_frontend/dist"
       ],

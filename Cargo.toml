@@ -1,5 +1,0 @@
-[workspace]
-members = [
-    "src/Day1Retry_backend"
-]
-resolver = "2"
